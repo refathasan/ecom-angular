@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "jaddu-ecom"
+    }
+  },
+  "defaultProject": "jaddu-ecom",
+  "cli": {
+    "analytics": "b74be94f-358a-41a3-b21b-10bdf55c7d6a"
+  }
 }
